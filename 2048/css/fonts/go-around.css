@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Go Around";
+    src: url("go-around-the-books-webfont.eot");
+    src: url("go-around-the-books-webfont.eot?#iefix") format("embedded-opentype"),
+         url("go-around-the-books-webfont.svg#clear_sansbold") format("svg"),
+         url("go-around-the-books-webfont.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}

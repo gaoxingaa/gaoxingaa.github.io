@@ -1,0 +1,7 @@
+_config.yml
+d
+.idea/*
+target/*
+_site/*
+*.iml
+.jekyll-cache/*
