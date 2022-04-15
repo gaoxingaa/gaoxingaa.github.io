@@ -178,3 +178,7 @@ code {
 p {
 	margin: 0 0 25px;
 }
+
+.btn-sm{
+    width:42px;
+}
