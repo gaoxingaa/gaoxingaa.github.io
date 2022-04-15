@@ -2,7 +2,7 @@
 layout: post
 title: Java Annotation
 categories: Tech
-tags: Annotation
+tags: [Java, Annotation]
 ---
 
 apt tool and API have been deprecated as of JDK 7. Mention on: [API](https://blogs.oracle.com/darcy/entry/apt_api_files)

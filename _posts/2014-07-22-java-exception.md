@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Java异常学习笔记
-categories: Tech
-tags: [Java, Exception]
-lang: zh-hans
+title: How to Handle Exceptions in Java
+categories: [Tech]
+tags: [Java, Exception, Interview]
 ---
 
-有效处理Java异常三原则 
+How to Handle Exceptions in Java
 
-1. 具体明确
+1. Make it specific
 
 ```
 
@@ -35,7 +34,7 @@ lang: zh-hans
    
 ```
 
-2. 提早抛出
+2. Throw early
 
 ```
   public void readPreferences(String filename)
@@ -52,7 +51,7 @@ lang: zh-hans
   }
 ```
 
-3. 延迟捕获
+3. Catch late
 
 ```
    public void readPreferences(String filename)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Programming Cloud Services for Android Handheld Systems Week 2
-categories: [Tech]
-tags: Android
+categories: [Tech, Learning]
+tags: [Android]
 ---
 
 1. Building Cloud Services on HTTP

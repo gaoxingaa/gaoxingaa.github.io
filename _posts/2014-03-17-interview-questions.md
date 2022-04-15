@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Interview Questions
-categories: Tech
-tags: Interview
+categories: [技术]
+tags: [面试]
 lang: zh-hans
 ---
 

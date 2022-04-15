@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Financial Foundations
-categories: Financial
-tags: Financial
+categories: [Learning]
+tags: [Financial]
 ---
 
 1. Introduction to Marketing

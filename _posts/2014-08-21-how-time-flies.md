@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Time Flies
-categories: [English, Diary]
+categories: [Diary]
 tags: [Life]
 ---
 It has been 40 days since my parents visit us in Shanghai. In the past 40 day, I didn't need cook and do my garocy and lundry. I acted like I was the host of the house, and they were the guests.

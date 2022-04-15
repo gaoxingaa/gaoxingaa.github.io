@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merge Sort
-categories: Tech
+categories: [Tech]
 tags: [Algorithms, Sort]
 ---
 

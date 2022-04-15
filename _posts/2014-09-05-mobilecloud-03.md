@@ -2,7 +2,7 @@
 layout: post
 title: Programming Cloud Services for Android Handheld Systems Week 3
 categories: [Tech]
-tags: Android
+tags: [Android]
 ---
 1. Java Annotation
 @indentifier

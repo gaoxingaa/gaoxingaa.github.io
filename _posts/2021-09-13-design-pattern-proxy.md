@@ -2,7 +2,7 @@
 layout: post
 title: Proxy Desgin Pattern
 categories: [Tech]
-tags: [Desgin Pattern]
+tags: [Design Pattern]
 
 ---
 

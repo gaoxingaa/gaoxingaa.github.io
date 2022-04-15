@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2014072601Wait Wait Don't tell me
-categories: English
-tags: [Wait Wait]
+categories: [English]
+tags: [NPR, Podcast]
 ---
 [Good News](http://www.npr.org/2014/07/26/335400964/good-news)
 ```

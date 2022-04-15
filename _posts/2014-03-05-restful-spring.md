@@ -2,7 +2,7 @@
 layout: post
 title: RESTful Spring
 categories: Tech
-tags: RESTful
+tags: [Spring, RESTful]
 ---
 
 As you see in steps below, Spring uses the Jackson JSON library to automatically marshal instances of type Greeting into JSON.

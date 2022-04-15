@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Notes For Mobile Cloud
-categories: [Tech]
-tags: Android
+categories: [Tech, Learning]
+tags: [Android]
 ---
 Week1
 ---
