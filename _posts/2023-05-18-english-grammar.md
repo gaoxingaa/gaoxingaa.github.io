@@ -2,7 +2,7 @@
 layout: post
 title: Today's English Grammar
 categories: English
-tags: English
+tags: Grammar
 lang: en
 ---
 
