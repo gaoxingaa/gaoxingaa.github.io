@@ -6,7 +6,6 @@ tags: []
 lang: zh-hans
 
 ---
-# A first-level heading
 To open IntelliJ IDEA's built-in Thread Dump Analyzer, you can follow these steps: Debugger -> Get Thread Dump
 
 
