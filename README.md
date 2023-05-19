@@ -1,9 +1,6 @@
 New Start Forever From 2014 
 =====
 
-### License
-- [MIT](http://opensource.org/licenses/MIT)
-
 ### Get Started
 1. Download [ruby](https://jekyllrb.com/docs/installation/windows/)
 2. Install Jekyll and Bundler using 
