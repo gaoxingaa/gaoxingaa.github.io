@@ -6,12 +6,12 @@ tags: Writing
 lang: en
 ---
 
-## write about the following topic in IELTS Writing Task:
+## Write about the following topic in IELTS Writing Task:
 Some people say that it is impossible to live comforbably in big citeis.
 What problems are faced by the poeple living in big cities?
 What solutions can be taken to solve those problems？
 
-## Sample Response:
+## Sample:
 
 In recent years, the debate about whether it is possible to live comfortably in big cities has gained prominence. While it is true that living in big cities presents certain challenges, such as high cost of living and traffic congestion, effective solutions can be implemented to address these problems and ensure a comfortable urban lifestyle.
 
