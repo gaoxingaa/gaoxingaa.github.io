@@ -5,6 +5,7 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
+future: true
 
 markdown: kramdown
 title: Keep Learning
