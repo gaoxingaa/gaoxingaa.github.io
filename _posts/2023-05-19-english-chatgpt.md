@@ -14,7 +14,7 @@ I'm learning English with ChatGPT now, and find some useful promot.
 2. Write an article by using these 10 words
 3. Explain some grammar in this article for B2 level
 4. Make a cloze by this article to remove the 10 words
-5. Create  multiple choice reading comprehension quiz by this article
+5. Create multiple choice reading comprehension quiz by this article
 
 ## Interactive dialogue
 
