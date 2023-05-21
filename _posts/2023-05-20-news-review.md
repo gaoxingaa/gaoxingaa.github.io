@@ -42,11 +42,11 @@ Today's news is from BBC, [Republicans and White House resume debt ceiling talks
 
 - Budgetary concessions: Budgetary concessions refer to compromises or adjustments made in a financial plan or budget. It involves giving up certain planned expenditures or making alterations to accommodate constraints or priorities.
 
-Flanks: Flanks can refer to the sides or outer edges of something, often used in the context of a military formation. In a broader sense, it can also refer to the sides or boundaries of a person, organization, or concept.
+- Flanks: Flanks can refer to the sides or outer edges of something, often used in the context of a military formation. In a broader sense, it can also refer to the sides or boundaries of a person, organization, or concept.
 
-Elusive: Elusive describes something that is difficult to capture, achieve, or comprehend. It suggests that the thing in question is evasive, hard to grasp, or hard to find.
+- Elusive: Elusive describes something that is difficult to capture, achieve, or comprehend. It suggests that the thing in question is evasive, hard to grasp, or hard to find.
 
-Deficit: Deficit refers to a situation where the amount of something, such as money, resources, or goods, is insufficient or falls short of what is needed or expected. In the context of finances, a deficit occurs when expenses exceed income or when there is a shortfall in funds.
+- Deficit: Deficit refers to a situation where the amount of something, such as money, resources, or goods, is insufficient or falls short of what is needed or expected. In the context of finances, a deficit occurs when expenses exceed income or when there is a shortfall in funds.
 
 
 ### Create multiple choice reading comprehension quiz by this article
