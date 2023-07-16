@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-myname: janezhangoo.github.io
+myname: gaoxingaa.github.io
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -13,7 +13,7 @@ description: To Be a Fullstack Programmer
 author:
   name: Jane
   email: naite.zhang@gmail.com
-  github: janezhangoo
+  github: gaoxingaa
   email_md5: 1b87f1f342c5456fd4a72d419ce2274a
   twitter: zhangzhangya
 
@@ -21,8 +21,8 @@ mooc_path: moocs/home.html
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-BASE_PATH: https://janezhangoo.github.io
-production_url: https://janezhangoo.github.io
+BASE_PATH: https://gaoxingaa.github.io
+production_url: https://gaoxingaa.github.io
 # disqus: janezhango
 # google: true
 
