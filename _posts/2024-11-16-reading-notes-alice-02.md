@@ -14,6 +14,8 @@ A cupboard is a piece of furniture or a built-in storage space, usually enclosed
 ## Marmalade
 Marmalade is a type of preserve made from citrus fruits, most commonly oranges, although other fruits like lemons or grapefruits can also be used. It is similar to jam or jelly but is distinct because it typically includes pieces of the fruit peel, giving it a slightly bitter flavor alongside the sweetness.
 
+<div><img src="{{ site.BASE_PATH }}/images/2024-11-17-cupboard.jpg" /> </div>
+
 
 ## antipathy
 The word "antipathies" refers to strong feelings of dislike or aversion toward someone or something. It is the plural form of "antipathy."
@@ -21,3 +23,4 @@ The word "antipathies" refers to strong feelings of dislike or aversion toward s
 ## Latitude and longitude
 Latitude and longitude are coordinate systems used to determine the location of any point on Earth's surface. Together, they form a grid system that allows precise navigation and mapping.
 
+<div><img src="{{ site.BASE_PATH }}/images/2024-11-17-latitude-and-longitude.jpg" /> </div>
