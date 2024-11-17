@@ -2,7 +2,7 @@
 layout: post
 title: Reading Notes - Alice's Adventures in Wonderland
 categories: [English]
-tags: [ChatGPT, Alices Adventures in Wonderland]
+tags: [ChatGPT, Alices Adventures in Wonderland, Phrases]
 lang: en-US
 
 ---

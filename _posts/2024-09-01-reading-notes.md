@@ -2,7 +2,7 @@
 layout: post
 title: Reading Notes - Phrases from Reframe Your Brain
 categories: [English]
-tags: [ChatGPT]
+tags: [ChatGPT, Phrases]
 lang: en-US
 
 ---
