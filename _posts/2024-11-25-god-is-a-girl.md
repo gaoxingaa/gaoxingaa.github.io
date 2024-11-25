@@ -4,10 +4,10 @@ title: Reading Notes - Money News
 categories: [English]
 tags: [ChatGPT, Lyrics]
 lang: en-US
-
+youtubeId: rp53irFjzYg
 ---
-[![God is a girl](https://img.youtube.com/vi/rp53irFjzYg/hqdefault.jpg)](https://www.youtube.com/watch?v=rp53irFjzYg)
 
+{% include youtubePlayer.html id=page.youtubeId  %}
 
 
 ## illuminating
