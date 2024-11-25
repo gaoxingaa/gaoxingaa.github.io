@@ -6,9 +6,9 @@ tags: [ChatGPT, Lyrics]
 lang: en-US
 
 ---
+[![God is a girl](https://img.youtube.com/vi/rp53irFjzYg/hqdefault.jpg)](https://www.youtube.com/watch?v=rp53irFjzYg)
 
 
-[God is a girl](https://www.youtube.com/watch?v=rp53irFjzYg)
 
 ## illuminating
 
