@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Notes - Money News
+title: Learn English by Lyrics - God is a girl
 categories: [English]
 tags: [ChatGPT, Lyrics]
 lang: en-US
