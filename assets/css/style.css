@@ -143,9 +143,11 @@ footer {
 }
 
 .coursera-container img {
-	max-width: 100%;  /* ensures image scales to container width */
-	height: auto;     /* maintains aspect ratio */
-	display: block;   /* removes bottom whitespace */
+	width: 100%;
+	height: 100%;
+	object-fit: cover;   /* this stretches and crops the image to fill container */
+	object-position: center; /* ensures center of image is shown */
+	display: block;
 }
 
 .coursera-listing {
